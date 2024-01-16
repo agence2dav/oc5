@@ -1,6 +1,6 @@
 # Cms from scratch
 
-CCreate a cms in Poo from scratch
+Create a cms in Poo from scratch
 
 # Installation
 
