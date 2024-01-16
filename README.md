@@ -1,8 +1,13 @@
 # Installation
 
-- install composer
-- install twig
-- install php-cs fixer, set to psr-12
-- install php-dotenv
-- install database in docs/database
-- copy files
+Installation :
+
+- Webserver Apache2
+- Php >8.2
+- Mysql / MariaDb
+- composer
+- twig (via composer)
+- php-dotenv (via composer)
+- php-cs fixer, set to psr-12 (optionnal)
+- import database located in /docs/database in phpMyAdmin
+- git clone https://github.com/FractalFramework/oc5.git
